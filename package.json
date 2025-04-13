@@ -1,0 +1,11 @@
+{
+  "name": "serializable-collections",
+  "displayName": "Serializable Collections",
+  "author": {
+    "name": "Gulnaz Gurbuz"
+  },
+  "version": "0.0.1",
+  "description": "Serializable Collections",
+  "dependencies": {
+  }
+}
