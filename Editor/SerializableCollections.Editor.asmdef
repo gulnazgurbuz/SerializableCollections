@@ -1,3 +1,4 @@
 {
-  "name": "SerializableCollections.Editor"
+  "name": "SerializableCollections.Editor",
+  "references":[ "SerializableCollections.Runtime" ]
 }
