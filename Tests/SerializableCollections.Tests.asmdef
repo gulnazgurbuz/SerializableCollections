@@ -1,0 +1,4 @@
+{
+  "name": "SerializableCollections.Tests",
+  "references":[ "SerializableCollections.Runtime" ]
+}
